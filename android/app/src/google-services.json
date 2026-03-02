@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674152011412",
+    "project_id": "firebse-test-b1b5f",
+    "storage_bucket": "firebse-test-b1b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674152011412:android:134d18a4c0ce7ef6c40681",
+        "android_client_info": {
+          "package_name": "com.example.fl_cruddemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0tpMyC-ptBzy9TlYfX8RGzVkeGobLGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
